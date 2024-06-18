@@ -10,3 +10,7 @@
 ## Deploy To Heroku
 
 [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PheonixDeathNote/Tuktuk)
+
+##deploy to koyeb
+
+[![Deploy To koyeb](https://www.koyeb.com/deploy/button.svg)](https://app.koyyb.com/deploy?template=https://github.com/)
